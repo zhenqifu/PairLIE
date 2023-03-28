@@ -1,7 +1,7 @@
 # Learning a Simple Low-light Image Enhancer from Paired Low-light Instances (CVPR 2023)([Paper]())
 The Pytorch Implementation of PairLIE. 
 
-<div align=center><img src="img/1.png" height = "80%" width = "80%"/></div>
+<div align=center><img src="img/1.png" height = "60%" width = "60%"/></div>
 
 ## Introduction
 In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.12.0 and one NVIDIA RTX 2080Ti GPU. 
