@@ -1,5 +1,5 @@
-# Learning a Simple Low-light Image Enhancer from Paired Low-light Instances (cvpr 2023)([Paper]())
-The Pytorch Implementation of ''Uncertainty Inspired Underwater Image Enhancement''. 
+# Learning a Simple Low-light Image Enhancer from Paired Low-light Instances (CVPR 2023)([Paper]())
+The Pytorch Implementation of PairLIE. 
 
 <div align=center><img src="img/1.png" height = "60%" width = "60%"/></div>
 
