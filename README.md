@@ -33,5 +33,11 @@ python main.py
 If you find PairLIE is useful in your research, please cite our paper:
 
 ```
-
+@inproceedings{fu2023learning,
+  title={Learning a Simple Low-Light Image Enhancer From Paired Low-Light Instances},
+  author={Fu, Zhenqi and Yang, Yan and Tu, Xiaotong and Huang, Yue and Ding, Xinghao and Ma, Kai-Kuang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={22252--22261},
+  year={2023}
+}
 ```
