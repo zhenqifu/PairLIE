@@ -50,7 +50,7 @@ class DatasetFromFolder(data.Dataset):
         return im1, im2, file1, file2
 
     def __len__(self):
-        return 324
+        return 324 # for custom datasets, please check the dataset size and modify this number
 
 
 class DatasetFromFolderEval(data.Dataset):
